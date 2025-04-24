@@ -1,0 +1,1 @@
+The zipped file contains individual database files. You can open the zipped file by double-clicking to view individual files. The individual files are tables containing table names and columns representing attributes. The files have been used to design a database for e-commerce. Accompanying the design is an ERD output, 
